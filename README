@@ -1,0 +1,3 @@
+The program processes a string of the form received
+from the standard input stream "3 4 - 5 + " and
+returns the result of calculating the expression.
